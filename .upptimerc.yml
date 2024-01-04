@@ -26,4 +26,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  uptime: "0 */3 * * *"
+
 # See https://upptime.js.org/docs/configuration
