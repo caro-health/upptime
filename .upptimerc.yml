@@ -12,6 +12,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Caro Company Site
     url: https://caro.health
+  - name: Caro Health Server
+    url: https://vjtbsbd4htmgs3z6qtxpmy72z40ddkae.lambda-url.eu-west-1.on.aws/api/status
 
 status-website:
   # cname: status.caro.health
