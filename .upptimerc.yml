@@ -20,7 +20,9 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - Site: Caro Health
+      href: https://caro.health
 
 workflowSchedule:
   uptime: "0 */3 * * *"
