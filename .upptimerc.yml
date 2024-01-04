@@ -23,7 +23,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER
-    - Site: Caro Health
+    - title: Caro Health
       href: https://caro.health
 
 workflowSchedule:
