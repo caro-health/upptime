@@ -2,23 +2,17 @@ owner: caro-health
 repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Caro Company Site
     url: https://caro.health
-  - name: Caro Health Server
+  - name: Caro Blog
+    url: https://blog.caro.health
+  - name: Caro API Server
     url: https://vjtbsbd4htmgs3z6qtxpmy72z40ddkae.lambda-url.eu-west-1.on.aws/api/status
 
 status-website:
   # cname: status.caro.health
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://assets-global.website-files.com/608bf6784677334250865824/608bf6c642c663f3ccaf0dbe_webclip.png
   name: Caro Health Status
   introTitle: "**Caro Health Status**"
   introMessage: This is the status page for [Caro Health](https://caro.health) services. We are continuously monitoring our services for you. If you encounter any issues, please [let us know](mailto:support@caro.health).
