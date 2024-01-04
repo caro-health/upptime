@@ -6,7 +6,9 @@ sites:
     url: https://caro.health
   - name: Caro Blog
     url: https://blog.caro.health
-  - name: Caro API Server
+  - name: Caro Portal
+    url: https://caroclinic.caro.health
+  - name: Caro API
     url: https://vjtbsbd4htmgs3z6qtxpmy72z40ddkae.lambda-url.eu-west-1.on.aws/api/status
 
 status-website:
