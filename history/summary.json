@@ -4,18 +4,20 @@
     "url": "https://caro.health",
     "icon": "https://icons.duckduckgo.com/ip3/caro.health.ico",
     "slug": "caro-company-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 808,
-    "timeWeek": 652,
-    "timeMonth": 667,
-    "timeYear": 834,
-    "dailyMinutesDown": {}
+    "time": 831,
+    "timeDay": 555,
+    "timeWeek": 608,
+    "timeMonth": 656,
+    "timeYear": 831,
+    "dailyMinutesDown": {
+      "2024-06-25": 0
+    }
   },
   {
     "name": "Caro Blog",
