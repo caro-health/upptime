@@ -25,18 +25,20 @@
     "url": "https://blog.caro.health",
     "icon": "https://icons.duckduckgo.com/ip3/blog.caro.health.ico",
     "slug": "caro-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 524,
-    "timeDay": 704,
-    "timeWeek": 650,
-    "timeMonth": 592,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "timeDay": 522,
+    "timeWeek": 612,
+    "timeMonth": 583,
+    "timeYear": 527,
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   },
   {
     "name": "Caro Portal",
