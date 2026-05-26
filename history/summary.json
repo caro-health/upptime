@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 1603,
-    "timeWeek": 906,
-    "timeMonth": 839,
+    "time": 807,
+    "timeDay": 666,
+    "timeWeek": 908,
+    "timeMonth": 840,
     "timeYear": 831,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.caro.health.ico",
     "slug": "caro-blog",
     "status": "up",
-    "uptime": "91.71%",
+    "uptime": "91.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.78%",
-    "time": 288,
-    "timeDay": 456,
-    "timeWeek": 274,
+    "uptimeYear": "97.05%",
+    "time": 278,
+    "timeDay": 144,
+    "timeWeek": 261,
     "timeMonth": 267,
-    "timeYear": 177,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2025-06-05": 1131,
       "2025-06-04": 1440,
@@ -43,8 +43,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 643,
-    "timeWeek": 669,
-    "timeMonth": 681,
-    "timeYear": 739,
+    "time": 716,
+    "timeDay": 704,
+    "timeWeek": 678,
+    "timeMonth": 684,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   },
   {
@@ -77,10 +76,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 479,
-    "timeWeek": 873,
-    "timeMonth": 793,
-    "timeYear": 671,
+    "timeDay": 359,
+    "timeWeek": 409,
+    "timeMonth": 689,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   }
 ]
