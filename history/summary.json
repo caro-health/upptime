@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 413,
-    "timeWeek": 739,
+    "time": 805,
+    "timeDay": 487,
+    "timeWeek": 760,
     "timeMonth": 888,
-    "timeYear": 834,
+    "timeYear": 833,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.caro.health.ico",
     "slug": "caro-blog",
     "status": "up",
-    "uptime": "91.80%",
+    "uptime": "91.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.79%",
     "time": 275,
-    "timeDay": 194,
-    "timeWeek": 308,
-    "timeMonth": 321,
+    "timeDay": 273,
+    "timeWeek": 327,
+    "timeMonth": 327,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2025-06-05": 1131
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Caro Portal",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 725,
-    "timeDay": 647,
-    "timeWeek": 1287,
-    "timeMonth": 822,
+    "timeDay": 483,
+    "timeWeek": 1282,
+    "timeMonth": 821,
     "timeYear": 750,
     "dailyMinutesDown": {}
   },
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 628,
-    "timeDay": 452,
-    "timeWeek": 491,
-    "timeMonth": 772,
-    "timeYear": 681,
+    "timeDay": 443,
+    "timeWeek": 482,
+    "timeMonth": 697,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   }
 ]
